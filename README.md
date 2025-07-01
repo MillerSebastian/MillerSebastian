@@ -102,7 +102,7 @@ Cuando no estoy programando, me encuentras:
 <div align="center">
 
 ### 💭 Filosofía de Trabajo
-*"El código no solo debe funcionar, debe ser elegante y resolver problemas reales."*
+*"Si lo puedes soñar, lo puedes programar."*
 
 **🔥 Siempre listo para el próximo desafío | Barranquilla, Colombia 🇨🇴**
 
